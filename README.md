@@ -1,1 +1,0 @@
-# Bayesian-Minimum-Error-Classifier
