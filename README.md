@@ -6,6 +6,7 @@ This repository contains code for the project of our Probability Models for Comp
 ## ABSTRACT:
 
 TASK: Classify journals as national or international using minimum error classification. 
+
 Given: Dataset with journal names and seven features associated with them.  
 
 ## Risk functions:
